@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Barney",
+        "image": "https://vignette.wikia.nocookie.net/himym/images/8/83/Rc0JG.jpg/revision/latest/scale-to-width-down/340?cb=20130113174854",
+        "occupation": "PLEASE"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Ted",
+        "image": "https://vignette.wikia.nocookie.net/himym/images/1/14/WB0rq.jpg/revision/latest/scale-to-width-down/340?cb=20130113174836",
+        "occupation": "Teacher, Architect"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Robin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Robin_Scherbatsky.png",
+        "occupation": "Jounalist"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Lily",
+        "image": "https://vignette.wikia.nocookie.net/himym/images/c/cb/JJVSY.jpg/revision/latest/scale-to-width-down/340?cb=20130113174828",
+        "occupation": "Teacher, Painter"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Keira Knightley",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Marshall",
+        "image": "https://vignette.wikia.nocookie.net/himym/images/5/50/PlcCt.jpg/revision/latest/scale-to-width-down/340?cb=20130113174817",
+        "occupation": "Lawyer"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Tracy",
+        "image": "https://vignette.wikia.nocookie.net/himym/images/b/b6/Motherfinale.jpg/revision/latest/scale-to-width-down/340?cb=20140317110545",
+        "occupation": "Musician"
+      }
+      
+]
